@@ -83,10 +83,9 @@ axes.figure.canvas.draw()
 axes.figure.canvas.flush_events()
 
 # TODO: Set this to avoid twirl at start
-# When your algorithm works well set to 0
 start_step = 50
 
-# Number of particles, you may need more or fewer!
+# Number of particles
 Nparticles = 100
 
 # How many steps between display updates
